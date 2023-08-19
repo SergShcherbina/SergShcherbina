@@ -52,7 +52,7 @@
 ### 
 ---
 
-### 🧠  Codewars:
+### 🧠  Codewars
 
 ![codewars](https://www.codewars.com/users/SergShcherbina/badges/large)
 
