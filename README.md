@@ -59,9 +59,7 @@
 ### 
 ---
   
-### Badges
-
-<b>My GitHub Stats</b>
+### ⚙️ My GitHub Stats
 
 <table>
   <tr>
