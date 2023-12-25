@@ -3,8 +3,8 @@
 
 ### I'm frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
 
-- :seedling: completed web developer courses on Udemy
-- :telescope: completed front-end developer courses at an it-incubator
+<!-- - :seedling: completed web developer courses on Udemy
+- :telescope: completed front-end developer courses at an it-incubator -->
 - :mailbox: You can contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:serge.shcherbina@gmail.com)
 
   
