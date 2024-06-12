@@ -9,9 +9,9 @@
 
   
   
-<p align="center">
+<!-- <p align="center">
  <img width="600" src="assets/icons/github-snake.svg" alt="snake"/>
-</p>
+</p> -->
 
 ###
 ---
